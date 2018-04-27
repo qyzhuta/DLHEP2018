@@ -1,0 +1,7 @@
+Overview_of the solutions: summarize the methods applied and results I got
+Obtain_trainning_X_y: get the X and y for the trainning
+Train1_gradientboostingTree: Gradient boosting tree method -> gbt.pkl
+train_lad: LDA and SGDC methods -> lda.pkl and sgdc.pkl
+
+Other method adopt online: xgboost method
+Codes are stored in ./xgboost_clean/ -> best_xgb_model
